@@ -1,0 +1,6 @@
+make .env file - and store POSTGRES_HOST, POSTGRES_PASSWORD, POSTGRES_USERNAME
+
+geopandas
+rasterio
+sqlalchemy
+geoalchemy2
